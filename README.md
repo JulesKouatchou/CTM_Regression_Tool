@@ -35,7 +35,7 @@ The tool does three basic operations:
 It can perform three types of experiments:
 
 - **Verification Test:** We only want make sure that the code (under any Chemistry option) can run.
-- **'1+1=2' Test:** We select a Chemistry option (not including GMI) and do the following:
+- **1+1=2 Test:** We select a Chemistry option (not including GMI) and do the following:
      (1) run for one day to create a restart file; (2) run for another day using the
       restart file from (1); (3) do a two-day run with the same initial condition as (1).
      We want to verify that the outputs at the end of (2) is the same as that of (3).
