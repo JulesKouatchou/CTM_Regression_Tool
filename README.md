@@ -5,9 +5,12 @@ Jules Kouatchou (Jules.Kouatchou@nasa.gov)
 <br>
 NASA Goddard Space Flight Center, Code 606, Greenbelt, Maryland, USA
 </center>
-
+<br>
+<br>
 **Abstract**:
+<br>
 We describe procedures to perform GEOS CTM regression test.
+<br>
 
 ## Introduction
 The GEOS CTM regression tool is a set of python scripts and configuration
