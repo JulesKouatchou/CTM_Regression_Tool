@@ -7,8 +7,7 @@ NASA Goddard Space Flight Center, Code 606, Greenbelt, Maryland, USA
 </center>
 <br>
 <br>
-**Abstract**:
-<br>
+#### Abstract:
 We describe procedures to perform GEOS CTM regression test.
 <br>
 
